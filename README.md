@@ -1,3 +1,3 @@
-INTEGRANTES:
-Aizen Sanchez 110944
-Leticia Figueroa 110510
+INTEGRANTES:<br>
+Aizen Sanchez 110944<br>
+Leticia Figueroa 110510<br>
