@@ -166,7 +166,7 @@
         (suma-vec (t :pos) (mov-x-y (t :anguloT) (* 10 n)))
         (crear-tortuga [t (tortuga :anguloT)])))
 
-(defn keys-alfabeto [] '(\] \[ \I \- \+ \g \f \G \F))
+(defn keys-alfabeto [] '(\] \[ \| \- \+ \g \f \G \F))
 
 ;cada elemento de values-alfabeto espera por n (cantidad de apariciones del código) y el estado
 (defn values-alfabeto [sistem]
